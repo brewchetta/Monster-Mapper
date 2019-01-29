@@ -11,10 +11,17 @@ This application lives on a single page and renders data dynamically with the he
 
 This project uses the Leaflet plugin to map data across the world. Custom icons and a custom map background were added thanks to Leaflet's powerful capabilities.
 
-## Backend
+## Technology
 
-The backend for this app uses Ruby on Rails and PostgreSQL as a server API and database.
+* Javascript ES6
+* Node 11.3.0
 
-The repository can be found here:
+### Backend
+
+* Ruby 2.3.3
+* Rails 5.2.2
+* PostgreSQL 10.5
+
+The repository for the backend application can be found here:
 
 https://github.com/brewchetta/Monster-Mapper-Backend
