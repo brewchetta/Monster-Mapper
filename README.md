@@ -19,7 +19,7 @@ This project uses the Leaflet plugin to map data across the world. Custom icons 
 ### Backend
 
 * Ruby 2.3.3
-* Rails 5.2.2
+* Rails 5.1.6
 * PostgreSQL 10.5
 
 The repository for the backend application can be found here:
