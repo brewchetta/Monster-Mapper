@@ -3,6 +3,10 @@ Somewhere off in the distance we've always seen the blurry outlines of giants, s
 
 Monster Mapper is a paranormal activity tracker for just such occurences. It utilizes Javascript, Leaflet, Ruby on Rails and PostgreSQL to provide an enjoyable experience for amateur investigators of the supernatural.
 
+## Demo Video
+
+You can check out the video demo at: https://www.youtube.com/watch?v=wVkGZ9Objuk&feature=youtu.be
+
 ## Single Page Application
 
 This application lives on a single page and renders data dynamically with the help of Javascript.
