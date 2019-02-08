@@ -5,7 +5,7 @@ Monster Mapper is a paranormal activity tracker for just such occurences.
 
 ## Demo Video
 
-You can check out the video demo at: https://youtu.be/wVkGZ9Objuk
+You can check out the video demo at: https://youtu.be/d_tyewZBYsU
 
 ## Features
 
